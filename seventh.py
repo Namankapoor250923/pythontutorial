@@ -9,5 +9,6 @@
 #     i=i+1
 
 
-
-                                    
+# git add .
+# git commit -m "change vala  msg"
+# git push  
