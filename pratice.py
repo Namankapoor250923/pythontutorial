@@ -192,3 +192,28 @@
 #         j=j+1
 #     print()
 #     i=i+1
+
+# def eligibletovote():
+#  age=int(input('enter your age'))
+#  if(age>=18):
+#     print('yes you can vote')
+#  else:
+#     print('no')
+
+
+# eligibletovote()
+
+
+# def squarepattern():
+#     i=1
+#     while(i<=5):
+#         j=1
+#         while(j<=5):
+#             print('*',end=' ')
+#             j=j+1
+#         print()
+#         i=i+1
+
+
+
+
