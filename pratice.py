@@ -213,7 +213,32 @@
 #             j=j+1
 #         print()
 #         i=i+1
+# def sub(x,y):
+#     print(x-y)
+#     sum(7,8)
 
 
+# def mul(x,y):
+#     print(x*y)
+#     sub(9,4)
+
+# def main():
+#     sum(2,4)
+#     a=45
+#     print(a)
+#     mul(7,8)
+#     sub(7,2)
+
+# def sum(x,y):
+#     print(x+y)
+
+
+# main()
+
+
+for x in range(1,11):
+    # print(x)
+    if(x%2==0):
+       print(x)
 
 
