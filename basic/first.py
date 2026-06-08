@@ -119,3 +119,9 @@
 # b=80
 # a=l*b
 # print(a) 
+
+
+# print(2*3**2)
+
+# numbers=[5,10,15,20]
+# print(numbers[1]+numbers[3])

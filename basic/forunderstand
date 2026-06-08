@@ -1,0 +1,44 @@
+# print(2*3**2)
+# op=18
+
+# numbers=[5,10,15,20]
+# # print(numbers[1]+numbers[3])
+# op=30
+# doubr=how ?
+
+# numbers=[1,2,3,4,5]
+# print(numbers[1:4])
+# op=[2, 3, 4]
+# doubt= why 1 has not come ?
+
+# word= 'iloveyou'
+# print(word[0:5])
+# op=ilove
+
+# def add(a,b):
+#     return a+b 
+
+# print(add(2,add(3,4)))
+# op=9
+# doubt= how9 explain?
+
+# x=10
+# y=20
+# z=x
+# x=y
+# y=z
+
+# print(x,y)
+# op=20,10
+# doubt=from my pov ans shouldd be 10,20;explain it?
+
+# for i in range(2,6):
+#     print(i,end='')
+# op=2345
+# doubt=how?
+
+# def say_hii():
+#     print('hello sir')
+
+# say_hii()
+# op=hello sir
